@@ -39,9 +39,6 @@
 (setq-default cursor-type 'bar) 
 
 ;; customizations
-(global-set-key "\M-k" 'describe-key)
-(global-set-key "\M-f" 'describe-function)
-(global-set-key "\C-h" 'delete-backward-char)
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
